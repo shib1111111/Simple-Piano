@@ -51,3 +51,7 @@ or directly go to deployed server url : https://shib1111111.github.io/Simple-Pia
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Thank you for viewing this repo! Feel free to reach out with any questions or feedback.
+
+<em style="color: #ff66b2; font-weight: bold;">✨ --- Designed & made with Love by Shib Kumar Saraf ✨</em>
