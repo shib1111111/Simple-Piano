@@ -23,16 +23,30 @@ The Simple Piano project is a web application that allows users to play piano no
 - **CSS:** Styling and layout are handled using Cascading Style Sheets (CSS), providing an aesthetic and responsive design.
 
 - **JavaScript:** The functionality of the piano, including note playback and event handling, is implemented using JavaScript.
+## Screenshots
+
+<table align="center">
+  <tr>
+    <td><img src="screenshots/piano.jpg" alt="Index Page" width="1500" height="600"/></td>
+  </tr> 
+ <tr>
+    <td><em>Home Page</em></td>
+  </tr>
+</table>
 
 ## Getting Started
 
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/shib1111111/Simple-Piano.git
+
    
 ## Usage
 
 Open the `index.html` file in a web browser to launch the Simple Piano application. Interact with the piano by clicking on the keys or using the specified keyboard keys.
+
+or directly go to deployed server url : https://shib1111111.github.io/Simple-Piano/
+
 
 ## License
 
